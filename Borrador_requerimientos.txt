@@ -1,0 +1,48 @@
+Borrador inicial de requerimientos 
+
+Fabian 
+
+    1. Espacio informativo 
+        Subscribir 
+		Suscripcion a noticias con email (PDTE)
+        Registrar 
+		Registro de usuarios desde el panel de admin (OK)
+		Registro desde el sitio web para usuarios normales (acceso a interaccion en foros) (PDTE)
+		
+        Noticias, analisis. (EN PROCESO)
+        Blog --> Necesidad de intervención en tema de capacitación 
+        Foro por riesgo (OK)
+
+        REGLA DE NEGOCIO:
+        
+            1. Cuando una persona se registra como usuario, automaticamente su correo debera registrarse tambien
+            en la tabla "news_suscriptors" como suscriptor de las noticias, a su vez, en el sitio web debera existir 
+            un formulario sencillo donde la persona pueda ingresar su correo para suscribirse a las noticias sin 
+            necesidad de estar registrado como usuario 
+
+     
+    2. Recursos Humanos 
+        Trabaje con nosotros: formulario de inscripción (Deseable redireccionar a linkedin de la oferta creada allá)
+        Vacantes abiertas. 
+        Formulario para potenciales candidatos.  
+        Actividades de bienestar. 
+        Intranet (privado, usuario y contraseña) 
+        Descargar certificación laboral.  
+        Desprendible 
+        Salarios 
+        Retenciones 
+        Formato vacaciones 
+        Link a e-learning 
+        Reglamento interno de trabajo 
+
+ 
+
+    3. Financiero: 
+        Publicar estados financieros 
+    
+    4. Operacion: 
+        Brochure de la empresa 
+        Servicios y lineas de negocio 
+        Cotizaciones - Formulario donde puedan solicitar informacion - CRM 
+        Blog Informativo 
+        Glosario - Concepto
